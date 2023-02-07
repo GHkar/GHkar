@@ -1,10 +1,12 @@
 ### Hi there 👋
 
 
-<a href="https://sites.google.com/site/computernetworklab/?pli=1" target="_blank"><img src="https://img.shields.io/badge/COMNET-computer%20network%20lab-blue?style=flat-square&?logo=appveyor&logoColor=blue"/></a>
+<a href="https://sites.google.com/site/computernetworklab/?pli=1" target="_blank"><img src="https://img.shields.io/badge/COMNET-computer%20network%20lab-blue?style=flat-square&?logo=facebook&logoColor=white"/></a>
 
 <!--
 **GHkar/GHkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?logo=facebook&logoColor=white&link={페이스북 주소(url)})]({페이스북 주소(url)})
+
 
 Here are some ideas to get you started:
 
