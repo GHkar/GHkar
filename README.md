@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<a href="http://www.comnet.kmu.ac.kr/" target="_blank"><img src="https://img.shields.io/badge/COMNET-computer%20network%20lab-blue?style=flat-square&?logo=appveyor&logoColor=blue"/></a>
+<a href="comnet.kmu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/COMNET-computer%20network%20lab-blue?style=flat-square&?logo=appveyor&logoColor=blue"/></a>
 
 <!--
 **GHkar/GHkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
