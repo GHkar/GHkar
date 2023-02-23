@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGHkar%2F&count_bg=%23B4B4B4&title_bg=%23B8A2DF&icon=angellist.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<a href="https://sites.google.com/site/computernetworklab/?pli=1" target="_blank"><img src="https://img.shields.io/badge/COMNET-computer%20network%20lab-B4B4B4?labelColor=B8A2DF&?style=flat&logo=facebook&logoColor=white"/></a>
+<a href="https://sites.google.com/site/computernetworklab/?pli=1" target="_blank"><img src="https://img.shields.io/badge/COMNET-computer%20network%20lab-B4B4B4?labelColor=B8A2DF&?style=flat&logo=blockchaindotcom&logoColor=white"/></a>
 
 
 <!--
