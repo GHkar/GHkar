@@ -4,6 +4,7 @@
 <a href="https://sites.google.com/site/computernetworklab/?pli=1" target="_blank"><img src="https://img.shields.io/badge/-COMNET-B8A2DF?style=flat&logo=blockchaindotcom&logoColor=white"/></a>
 <a href="https://bitcoin.org/ko/" target="_blank"><img src="https://img.shields.io/badge/-Bitcoin-B4B4B4?style=flat&logo=bitcoin&logoColor=white"/></a>
 <a href="https://ethereum.org/ko/" target="_blank"><img src="https://img.shields.io/badge/-Ethereum-B8A2DF?style=flat&logo=ethereum&logoColor=white"/></a>
+<a href="https://python.org/ko/" target="_blank"><img src="https://img.shields.io/badge/-Python-B4B4B4?style=flat&logo=python&logoColor=white"/></a>
 
 
 
