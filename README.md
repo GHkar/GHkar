@@ -6,7 +6,9 @@
 <a href="https://ethereum.org/" target="_blank"><img src="https://img.shields.io/badge/-Ethereum-B8A2DF?style=flat&logo=ethereum&logoColor=white"/></a>
 <a href="https://python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-B4B4B4?style=flat&logo=python&logoColor=white"/></a>
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=GHkar&count_private=false&custom_title=AeriKim's Github&bg_color=70,B8A2DF,B4B4B4&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=GHkar&count_private=false&custom_title=AeriKim's Github&bg_color={70,B8A2DF,B4B4B4}&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=GHkar)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
