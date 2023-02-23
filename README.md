@@ -6,12 +6,9 @@
 <a href="https://ethereum.org/" target="_blank"><img src="https://img.shields.io/badge/-Ethereum-B8A2DF?style=flat&logo=ethereum&logoColor=white"/></a>
 <a href="https://python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-B4B4B4?style=flat&logo=python&logoColor=white"/></a>
 
-[![github stats](https://github-readme-stats.vercel.app/api?username={GHkar}&count_private={false}&custom_title={AeriKim's Github}&bg_color={70,B8A2DF,B4B4B4}&title_color={FFFFFF}&text_color={FFFFFF})](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=GHkar&count_private=false&custom_title=AeriKim's Github&bg_color=70,B8A2DF,B4B4B4&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![YebinKim's github stats](https://github-readme-stats.vercel.app/api?username={깃헙 이름(string)}&count_private={프라이빗 레포 커밋 셀지말지(bool)}&custom_title={타이틀(string)}&bg_color={그라데이션 각도,색1,색2,...}&title_color={타이틀 색(hex)}&text_color={타이틀 색(hex)})](https://github.com/anuraghazra/github-readme-stats)
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=GHKar)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
