@@ -1,9 +1,9 @@
 ### Hi there 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGHkar%2F&count_bg=%23DDDDDD&title_bg=%23DCD6F5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <a href="https://sites.google.com/site/computernetworklab/?pli=1" target="_blank"><img src="https://img.shields.io/badge/COMNET-computer%20network%20lab-blue?style=flat-square&?logo=Blockchain.com&logoColor=white"/></a>
 
-![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?logo=facebook&logoColor=white)
 
 <!--
 **GHkar/GHkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
