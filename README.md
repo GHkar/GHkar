@@ -14,6 +14,7 @@
 
 ### Using Language
 <a href="https://python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-B8A2DF?style=flat&logo=python&logoColor=white"/></a>
+<a href="https://docs.soliditylang.org/en/v0.8.19/" target="_blank"><img src="https://img.shields.io/badge/-Solidity-B8A2DF?style=flat&logo=solidity&logoColor=white"/></a>
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=GHkar&show_icons=true&count_private=false&bg_color=10,B8A2DF,B4B4B4&title_color=FFFFFF&text_color=FFFFFF)](/)
 
