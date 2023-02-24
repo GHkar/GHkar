@@ -21,8 +21,8 @@
 <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/-NodeJS-B8A2DF?style=flat&logo=nodedotjs&logoColor=white"/></a>
 
 ## State
-[![github stats](https://github-readme-stats.vercel.app/api?username=GHkar&show_icons=true&count_private=false&bg_color=10,B8A2DF,B4B4B4&title_color=FFFFFF&text_color=FFFFFF)](/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GHkar&layout=compact&bg_color=10,B4B4B4,B8A2DF&title_color=FFFFFF&text_color=FFFFFF&line_height=100)](/)
+[![github stats](https://github-readme-stats.vercel.app/api?username=GHkar&show_icons=true&count_private=false&bg_color=10,B8A2DF,B4B4B4&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GHkar&layout=compact&bg_color=10,B4B4B4,B8A2DF&title_color=FFFFFF&text_color=FFFFFF)](/)
 
 
 
