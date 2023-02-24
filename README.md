@@ -22,7 +22,7 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=GHkar&show_icons=true&count_private=false&bg_color=10,B8A2DF,B4B4B4&title_color=FFFFFF&text_color=FFFFFF)](/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GHkar)](/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GHkar&hide_progress=true&bg_color=10,B8A2DF,B4B4B4&title_color=FFFFFF&text_color=FFFFFF)](/)
 
 
 
