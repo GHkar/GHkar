@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Aeri Kim.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGHkar%2F&count_bg=%23B4B4B4&title_bg=%23B8A2DF&icon=angellist.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](/)
 
@@ -22,7 +22,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GHkar&layout=compact&bg_color=10,B4B4B4,B8A2DF&title_color=FFFFFF&text_color=FFFFFF)](/)
 
-## State
+### State
 [![github stats](https://github-readme-stats.vercel.app/api?username=GHkar&show_icons=true&count_private=false&bg_color=10,B8A2DF,B4B4B4&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](/)
 
 
